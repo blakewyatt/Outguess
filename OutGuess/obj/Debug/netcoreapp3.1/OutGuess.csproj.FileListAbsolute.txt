@@ -1,0 +1,13 @@
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\bin\Debug\netcoreapp3.1\OutGuess.exe
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\bin\Debug\netcoreapp3.1\OutGuess.deps.json
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\bin\Debug\netcoreapp3.1\OutGuess.runtimeconfig.json
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\bin\Debug\netcoreapp3.1\OutGuess.runtimeconfig.dev.json
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\bin\Debug\netcoreapp3.1\OutGuess.dll
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\bin\Debug\netcoreapp3.1\OutGuess.pdb
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\obj\Debug\netcoreapp3.1\OutGuess.csprojAssemblyReference.cache
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\obj\Debug\netcoreapp3.1\OutGuess.AssemblyInfoInputs.cache
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\obj\Debug\netcoreapp3.1\OutGuess.AssemblyInfo.cs
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\obj\Debug\netcoreapp3.1\OutGuess.csproj.CoreCompileInputs.cache
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\obj\Debug\netcoreapp3.1\OutGuess.dll
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\obj\Debug\netcoreapp3.1\OutGuess.pdb
+C:\Users\Blake\Desktop\MCA\Programs\OutGuess\OutGuess\obj\Debug\netcoreapp3.1\OutGuess.genruntimeconfig.cache
